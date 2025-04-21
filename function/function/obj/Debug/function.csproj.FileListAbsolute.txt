@@ -1,0 +1,9 @@
+D:\c#\function\function\bin\Debug\function.exe.config
+D:\c#\function\function\bin\Debug\function.exe
+D:\c#\function\function\bin\Debug\function.pdb
+D:\c#\function\function\obj\Debug\function.csprojResolveAssemblyReference.cache
+D:\c#\function\function\obj\Debug\function.exe
+D:\c#\function\function\obj\Debug\function.pdb
+D:\c#\function\function\obj\Debug\function.Form1.resources
+D:\c#\function\function\obj\Debug\function.csproj.GenerateResource.Cache
+D:\c#\function\function\obj\Debug\function.MainForm.resources
