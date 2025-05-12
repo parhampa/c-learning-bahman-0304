@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\class&array\class&array\bin\Debug\class&array.exe.config
+C:\Users\ASUS\Desktop\class&array\class&array\bin\Debug\class&array.exe
+C:\Users\ASUS\Desktop\class&array\class&array\bin\Debug\class&array.pdb
+C:\Users\ASUS\Desktop\class&array\class&array\obj\Debug\class&array.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\class&array\class&array\obj\Debug\class_array.MainForm.resources
+C:\Users\ASUS\Desktop\class&array\class&array\obj\Debug\class&array.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\class&array\class&array\obj\Debug\class&array.exe
+C:\Users\ASUS\Desktop\class&array\class&array\obj\Debug\class&array.pdb
