@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\c# timer\timer\timer\obj\Debug\timer.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\c# timer\timer\timer\obj\Debug\timer.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\c# timer\timer\timer\bin\Debug\timer.exe.config
+C:\Users\ASUS\Desktop\c# timer\timer\timer\bin\Debug\timer.exe
+C:\Users\ASUS\Desktop\c# timer\timer\timer\bin\Debug\timer.pdb
+C:\Users\ASUS\Desktop\c# timer\timer\timer\obj\Debug\timer.exe
+C:\Users\ASUS\Desktop\c# timer\timer\timer\obj\Debug\timer.pdb
+C:\Users\ASUS\Desktop\c# timer\timer\timer\obj\Debug\timer.mymsg.resources
