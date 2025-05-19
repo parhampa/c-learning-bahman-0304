@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\extended_class_name\extended_class_name\bin\Debug\extended_class_name.exe.config
+C:\Users\ASUS\Desktop\extended_class_name\extended_class_name\bin\Debug\extended_class_name.exe
+C:\Users\ASUS\Desktop\extended_class_name\extended_class_name\bin\Debug\extended_class_name.pdb
+C:\Users\ASUS\Desktop\extended_class_name\extended_class_name\obj\Debug\extended_class_name.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\extended_class_name\extended_class_name\obj\Debug\extended_class_name.MainForm.resources
+C:\Users\ASUS\Desktop\extended_class_name\extended_class_name\obj\Debug\extended_class_name.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\extended_class_name\extended_class_name\obj\Debug\extended_class_name.exe
+C:\Users\ASUS\Desktop\extended_class_name\extended_class_name\obj\Debug\extended_class_name.pdb
