@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\tamrin\tamrin\bin\Debug\tamrin.exe.config
+C:\Users\ASUS\Desktop\tamrin\tamrin\bin\Debug\tamrin.exe
+C:\Users\ASUS\Desktop\tamrin\tamrin\bin\Debug\tamrin.pdb
+C:\Users\ASUS\Desktop\tamrin\tamrin\obj\Debug\tamrin.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\tamrin\tamrin\obj\Debug\tamrin.exe
+C:\Users\ASUS\Desktop\tamrin\tamrin\obj\Debug\tamrin.pdb
+C:\Users\ASUS\Desktop\tamrin\tamrin\obj\Debug\tamrin.MainForm.resources
+C:\Users\ASUS\Desktop\tamrin\tamrin\obj\Debug\tamrin.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\tamrin\tamrin\obj\Debug\tamrin.Form1.resources
+C:\Users\ASUS\Desktop\tamrin\tamrin\obj\Debug\tamrin.Form2.resources
